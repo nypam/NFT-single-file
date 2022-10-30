@@ -3,7 +3,7 @@ This is a template repository focused on building small web apps. When you build
 
 ## Get Started
 - Have [Node.js](https://nodejs.org/en/) installed.
-- Clone/download this repo.
+- Click "Use Template" and then clone/download the created repo.
 - Open the folder in [VSCode](https://code.visualstudio.com/)
 - Hit `ctrl + ~` to open the terminal in VSCode and run `npm install`.
 
