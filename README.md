@@ -45,7 +45,7 @@ A config can include anything your want, any settings or details you want to pas
 To access the selected app config, you can `import config from "src/config"` in any `.svelte` or `.ts` file. This will import a parsed and typed version of the selected config file for use in your app code.
 
 ## Adding/Editing Configs
-If you update the shape of your config, be sure to update the TS schema in `./src/global.d.ts`
+If you update the shape of your config, be sure to update the TS schema in `./src/types.ts`.
 
 To add a new config to the project you'll need to add a new config `.json` file + add a new dev/build script.
 
